@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+
 
 # Site settings
 title: 中国传统道地药材                     #你博客的标题
@@ -9,4 +9,5 @@ description: "中国道地药材"              #网站介绍
 keyword: "中国道地药材，道地药材， 华北，东北，华中，华南，华东，西南，西北" #关键词
 url: "https://qiubaiying.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # 这个我们不用填写
+theme: jekyll-theme-cayman
 
